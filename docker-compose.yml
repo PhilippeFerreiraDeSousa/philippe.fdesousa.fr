@@ -1,0 +1,13 @@
+version: "3.1"
+
+services:
+  app:
+    image: jekyll/jekyll:4.0
+    volumes:
+      - "./src:/srv/jekyll"
+    command: "jekyll build"
+    restart: on-failure
+
+volumes:
+  db-data:
+    driver: local
