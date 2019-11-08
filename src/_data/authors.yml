@@ -6,5 +6,5 @@ Name Name:
   email       : "philippe@fdesousa.fr"
   bio         : "Graduate student at UC Berkeley"
   avatar      : "photo.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  twitter     : #"name"
+  google_plus : #"Name"
