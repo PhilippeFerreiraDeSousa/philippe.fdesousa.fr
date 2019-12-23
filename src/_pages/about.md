@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I’m Philippe, a French graduate student in Financial Engineering at UC Berkeley.
-I did my undergraduate in Mathematics and Computer Science at the Ecole des Ponts ParisTech in Paris.
-At that time I focused on projects of Machine Learning, Computer Science and image processing.
-During my internship year last year I worked as full stack developer at Illuin Technology, an AI company in Paris.
-I built chat-bots as well as an ecosystem to configure them, train them, annotate them and deploy them to several platforms.
+I’m Philippe, a French graduate student in Data Science at UC Berkeley, where I am studying Machine Learning, Optimization and FinTech as well as Robotics, Embedded Systems and Integrated Circuits. In parallel I am still enrolled in my master program in my home country in Mathematics and Computer Science at the Ecole des Ponts ParisTech in Paris, where I focused on Machine Learning, Computer Science and image processing.
 
-Then eager to discover the world, I went to Hong Kong to build high frequency trading automatons at Laplace Research Capital,
-connecting several trading strategies to several exchanges and products in real-time.
-I worked on data collection and processing to make custom orderbooks for quantitative research.
-Now at UC Berkeley, I keep studying Machine Learning, Optimization and FinTech as well as Robotics, Embedded Systems and Integrated Circuits.
+Last year, while interning at Illuin Tech (an AI company in Paris) as a full stack developer, I built chat-bots as well as an ecosystem to configure them, train them, annotate them and deploy them to several platforms.
+
+Eager to discover the world, I went to Hong Kong to build high frequency trading automatons at Laplace Research Capital, connecting trading strategies to exchanges and products in real-time. I also worked on data collection and processing to make custom orderbooks for quantitative research. I am currently looking for tech job.
+
 I am currently looking for tech job opportunities in the Silicon Valley and more broadly in the US.
+
+You can enjoy my first Medium article <a href="https://medium.com/@philippe.fdesousa/the-place-of-robots-in-society-c78278cdfbdc">here</a> that discusses recent developments in robotics and the future assimilation of robots in our daily lives.
 
 You can contact me by email at philippe [ at ] fdesousa.fr

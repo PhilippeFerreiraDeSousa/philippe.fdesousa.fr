@@ -84,7 +84,7 @@ author:
   avatar           : "photo.jpg"
   bio              : "Graduate student at UC Berkeley"
   location         : "San Francisco Bay Area"
-  employer         :
+  employer         : "UC Berkeley"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
@@ -178,7 +178,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  web:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -218,10 +218,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _web
   - scope:
       path: ""
-      type: publications
+      type: web
     values:
       layout: single
       author_profile: true
