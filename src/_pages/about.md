@@ -17,6 +17,6 @@ Eager to discover the world, I went to Hong Kong to build high frequency trading
 I am currently looking for tech job opportunities in the Silicon Valley and more broadly in the US.
 
 You can enjoy my first Medium article <a href="https://medium.com/@philippe.fdesousa/the-place-of-robots-in-society-c78278cdfbdc" target="_blank">here</a> that discusses recent developments in robotics and the future assimilation of robots in our daily lives.
-Finally my robotics project on collaborative trajectory tracking and multi-robot control is available <a href="https://theyoshistory.github.io/EECS206A/" target="_blank">here</a>.
+Finally my robotics project on collaborative trajectory tracking and multi-robot control is available <a href="https://fdesousa.fr/balebot/" target="_blank">here</a>.
 
 You can contact me by email at philippe [ at ] fdesousa.fr
