@@ -2,7 +2,8 @@
 
 Forked from [academicpages/academicpages.github.io].
 
-Project url is: https://philippe.fdesousa.fr.
+Project url is: https://philippeferreiradesousa.github.io/philippe.fdesousa.fr.
+Originally deployed on: https://philippe.fdesousa.fr.
 
 ## Install
 

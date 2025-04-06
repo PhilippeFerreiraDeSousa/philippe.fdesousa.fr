@@ -2,9 +2,9 @@
 
 Name Name:
   name        : "Philippe FERREIRA DE SOUSA"
-  uri         : "https://philippe.fdesousa.fr"
+  uri         : #"https://philippe.fdesousa.fr"
   email       : "philippe@fdesousa.fr"
   bio         : "Graduate student at UC Berkeley"
   avatar      : "photo.jpg"
-  twitter     : #"name"
+  twitter     : "FdsPhilippe"
   google_plus : #"Name"
