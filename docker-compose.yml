@@ -4,7 +4,7 @@ services:
   app:
     image: jekyll/jekyll:4.0
     volumes:
-      - "./src:/srv/jekyll"
+      - "./docs:/srv/jekyll"
     command: "jekyll build"
     restart: on-failure
 
