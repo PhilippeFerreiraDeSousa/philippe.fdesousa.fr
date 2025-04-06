@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Philippe's Webpage"
 title_separator          : "-"
 name                     : &name "Philippe FERREIRA DE SOUSA"
-description              : &description "Graduate student at UC Berkeley"
+description              : &description "Senior Software Engineer at JITX"
 url                      : "https://philippeferreiradesousa.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PhilippeFerreiraDeSousa/PhilippeFerreiraDeSousa.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Philippe FERREIRA DE SOUSA"
   avatar           : "photo.jpg"
-  bio              : "Graduate student at UC Berkeley"
+  bio              : "Senior Software Engineer at JITX"
   location         : "San Francisco Bay Area"
   employer         : "UC Berkeley"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -175,13 +175,13 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  ee:
     output: true
     permalink: /:collection/:path/
   web:
     output: true
     permalink: /:collection/:path/
-  ee:
+  teaching:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -212,10 +212,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _ee
   - scope:
       path: ""
-      type: teaching
+      type: ee
     values:
       layout: single
       author_profile: true
@@ -230,10 +230,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _ee
+  # _teaching
   - scope:
       path: ""
-      type: ee
+      type: teaching
     values:
       layout: single
       author_profile: true

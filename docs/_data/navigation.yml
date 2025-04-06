@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Electrical Engineering"
+    url: /ee/
 
   - title: "Web development"
     url: /web/
 
-  - title: "Electrical Engineering"
-    url: /ee/
+  - title: "Teaching"
+    url: /teaching/
